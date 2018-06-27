@@ -1,0 +1,32 @@
+name: Lockdown
+main: me.Firegred.Lockdowns
+description: >
+          Lockdown minecraft plugin
+version: 1.0
+author: Firegred
+
+commands:
+     Lockdowninfo:
+       description: Info about plugin
+     Lockdown:
+       description: Lockdown an area
+     Lockdowncreate:
+       description: Create a Lockdown area
+     Lockdowncreateregion:
+       description: Create a lockdown sub-area
+     Lockdowndeleteregion:
+       description: Deletes a lockdown sub-area
+     Lockdownreload:
+       description: Reloads plugin
+     Lockdownlist:
+       description: Lists all lockdown sub-areas
+     LockdownONmessage:
+       description: Sets broadcast message for lockdown if on
+     LockdownOFFmessage:
+       description: Sets broadcast message for lockdown if off
+permissions:
+     Lockdown.use:
+       description: Allows you to Lockdown areas
+     Lockdown.modify:
+       description: Allows you to modify and create lockdown areas
+     

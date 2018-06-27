@@ -1,0 +1,13 @@
+name: TreeWreckers
+main: me.Firegred.Main.Main
+description: >
+          TreeWreckers plugin
+version: 1.0
+author: Firegred
+
+commands:
+     TreeWreckers:
+       description: plugin command
+     TW:
+       description: plugin commnand
+   

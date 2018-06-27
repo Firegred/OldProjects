@@ -1,0 +1,44 @@
+name: Easter Eggs
+version: 1.26
+main: me.Firegred.Easter.Main
+author: Firegred
+description: >
+              Easter Plugin
+commands:
+     easterEggCount:
+       description: Get how many Easter eggs you've collected
+     easterpos1:
+       description: set Position1 of Easter drop area
+     easterpos2:
+       description: set Position2 of Easter drop area
+     easterReload:
+       description: reload Easter
+     eastertoggleEnable:
+       description: Toggle Easter Eggs
+     eastertoggleBroadcast:
+       description: Toggle Easter Eggs broadcasting
+     eastertogglepickup:
+       description: Toggle Easter Eggs instant pickups
+     eastersetTimer:
+       description: Set how often Easter Eggs eggs drop
+     eastersetLimit:
+       description: Set how many Easter Eggs eggs can drop
+     eastersetworld:
+       description: Set the Easter Eggs egg drop world
+     easterEggs:
+       description: Tells how many Easter Eggs eggs exist
+     eastertime:
+       description: Tells how often Easter Eggs eggs will drop
+     easterlimit:
+       description: Tells how many Easter Eggs eggs can drop
+     eastereggtotal:
+       description: Shows the top Easter Eggs egg players
+     eastertoggleRewards:
+       description: Toggle rewards
+     easterrewardbox:
+       description: Op command
+     JumpI:
+       description: Jump like a bunny
+permissions:
+     Easter.winner:
+       description: for Easter winners!

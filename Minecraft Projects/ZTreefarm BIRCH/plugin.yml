@@ -1,0 +1,23 @@
+name: TreeFarm
+version: 1.0
+main: me.Firegred.cool.TreeFarm
+author: Firegred
+description: >
+              TreeFarm Plugin
+commands:
+     TreeFarmSet:
+       description: Sets the TreeFarm
+     TreeFarmList:
+       description: Shows the Tree Farms
+     TreeFarmRemove:
+       description: Removes a TreeFarm
+     TreeFarmInfo:
+       description: Version and author
+permissions:
+     TreeFarm.Set:
+       description: Allows you to set Treefarms
+     TreeFarm.List:
+       description: Allows you to list the Treefarms
+     TreeFarm.Remove:
+       description: Allows you to remove Treefarms
+       

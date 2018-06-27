@@ -1,0 +1,24 @@
+name: Hat
+version: 1.2
+main: me.Firegred.Hats.Hats
+author: Firegred
+description: >
+               Hat Plugin
+commands:
+     hatchest:
+       description: OP command
+     chancelist:
+       description: OP command
+     setMineChance:
+       description: OP command
+     HatReload:
+       description: Reloads the Sync Hat plugin
+     HatInfo:
+       description: Info about SyncHats
+     AddKeys:
+       description: Add keys to a player (Console only!)
+     SetDisplace:
+       description: OP command
+permissions:
+     Hat.Reload:
+       description: Allows you to reload the unusual hat plugin

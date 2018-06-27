@@ -1,0 +1,40 @@
+name: Kidnapper
+version: 1.1
+main: me.Firegred.Kidnapper.Main
+description: >
+               Minigame Plugin
+commands:
+    gamekick:
+      description: Kicks player
+    gameban:
+      description: Bans player
+    deadmin:
+      description: Demotes an admin
+    admin:
+      description: promotes a player to admin
+    kidreload:
+      description: Reloads plugin
+    setMainLobby:
+      description: Sets the main lobby
+    setlobby:
+      description: Sets the game lobbies
+    gameinfo:
+      description: Info of your game
+    gamedel:
+      description: Deletes a game
+    build:
+      description: Allows you to modify the world
+    setcitizenspawn:
+      description: Set the spawn for citizens
+    setkidnapperlobby:
+      description: Kidnapper's waiting area when game begins
+    setkidnapperspawn:
+      description: Kidnapper's spawn
+    reboot:
+      description: Kicks everyone and reboots the server
+    setjail:
+      description: sets jail for kidnappers
+    setcapturearea:
+      description: sets capture area for captured chests
+    resetgame:
+      description: Resets a game fully (good for debugging)
