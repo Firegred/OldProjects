@@ -1,0 +1,376 @@
+Greeting
+phrase 1
+Hello there... what is your name?
+...
+Oh, your name is <name>...
+That is funny.. I seem to know you very well...
+I did not even properly greet you.
+You may wonder who I am.
+Well... consider me as your friend.
+You are stuck because of me...
+And what am I?
+A spirit...
+But you may ask yourself... "Why did you choose me to be your friend?"
+Well.. I didn't.
+Someone else did...
+And who is that someone else?
+No one.. I lied... It is something that is reponsible for this.
+And that something is a cursed snowball.
+Have fun being trapped here forever :)
+<end>
+phrase 2
+What is wrong?
+Are you... afraid?
+Do not be, I am here for you :)
+What I am doing to you is for your own protection.
+You may be wondering... why do you need protection?
+Well... you may do something stupid.
+Like burning to death... or getting killed by zombies...
+...or by being trapped by me... >:)
+Ha ha. I am only joking.
+By being frozen by me, you cannot kill yourself.
+But I never said anything about others killing YOU... :)
+But who would want to kill you? ...
+Definitely not me... I swear.
+That snowball that hit you could have killed you.
+But it did not... and now you are here... with me :)
+Have fun! <3
+<end>
+phrase 3
+It seems like you are trapped...
+What will you do about it?
+Nothing. 
+You can try doing anything (and by anything, I really mean ANYTHING)
+It will not change the fact that you are trapped.
+Want to know the best part of being trapped?
+You will be here forever! WITH ME <3
+But why? ... Why will you stay here forever?
+Because of a cursed snowball silly.
+Someone threw it at your silly nilly face <3.
+I really like your skin... it is nice.
+Did you make it yourself? OR DID YOU STEAL IT LIKE A THIEF?
+Ha ha. I only joke.
+But seriously...
+Enjoy being stuck here...
+....WITH ME MWAHAHAHAHAHA
+HAHAHAHAHAHAHAHAHA
+<end>
+phrase 4
+Woah! I found a new friend <3
+Hi there... um... "What is your name again?"
+Oh I remember, it is <name>
+You may ask, "How do I remember you if we have never met?"
+The answer to that question is simple...
+I do not know you... I only read your nametag.
+And you are now my newest friend <3
+What do friends do? Hmm...
+Oh.. I know. Friends tell each other jokes.
+Knock knock
+Who's there?
+Friend
+Friend who?
+Friend who will keep you frozen forever. MWAHAHAHA
+I suck at jokes, but that is ok..
+You'll never leave me so have fun :)
+<end>
+phrase 5
+I do not feel well, so let me make this quick.
+You were hit by a cursed snowball.
+I came out of the snowball and am now your friend.
+As a friend, I trapped you.
+So be a good friend and stay trapped.
+Have fun being here with me! <3
+<end>
+<done>
+OP Greeting:
+phrase 1
+Why hello there Mr Operator.
+It seems you are trapped.
+But why? ...
+The answer is simple.
+You were hit by a cursed snowball.
+And I live in that snowball.
+Now that I am free, I can do whatever I want.
+But why do I choose to stay with you?
+Because I feel lonely...
+And I really need a new friend.
+A powerful new friend...
+Since OPs are so powerful, do you think you can get rid of me?
+HAHAHAHAHA. YOU ARE SO FUNNY.
+I have more power than you. :)
+So have fun staying here for eternity.
+MWAHAHAHAHA
+<end>
+phrase 2
+Woah! I just met the operator!
+Hi there operator. How are you today?
+Good? Bad? Ha ha, it is all the same to me.
+Right now, I am feeling excited.
+Why am I excited?
+Because I am with YOU!
+I have never been friends with an operator before.
+Do you know what I find funny?
+I am actually more powerful than YOU right now! <3
+Haha, you probably do not believe me. That is understandable.
+You probably think there is some kind of command to get rid of me.
+But nope, try everything. No player command can get rid of me :)
+Did I ruin your day? ...I really hope I did not.
+If I did, sorry. Nothing will change the fact that you are trapped.
+Trapped by getting hit by a cursed snowball.
+So take a seat, relax, and take a drink.
+I am here for you :)
+Have fun! <3
+<end>
+phrase 3
+I really am not in the mood for talking.
+So let me make this fast.
+You are an operator. I am a friend.
+You were hit by a cursed snowball.
+You cannot do anything to get rid of me.
+You will be trapped here forever.
+Have fun..
+<end>
+<done>
+Welcome back:
+phrase 1
+Welcome back! Did you miss me?
+Well... I missed you. I felt really lonely.
+While you were gone, there was no one I could talk to.
+I could talk to myself, but that makes me feel sad :(
+When I talk to you, I feel like the happiest spirit in the universe <3
+Being your friend makes me feel amazing.
+Friendship is magic... right?
+I really hope I am right. Being wrong sucks :(
+For some reason I feel sleepy... really sleepy...
+I am going to take a nap.
+Stay here... ok?
+Don't leave me again!
+<end>
+phrase 2
+Hey there friend!
+You were gone for a while.
+Were you gone for... seconds? minutes? hours? days? weeks?
+I am not sure.
+What is important is you are here now... with ME <3
+I could talk to you all day... all night... all the time...
+There is no where you can go.
+You will always be here with me.
+Do not freak out, you cannot go and hurt yourself.
+Just stay here with me :)
+<end>
+phrase 3
+Oh hey there!
+I thought you died because you were gone for some time.
+But that is ok... you are here now.
+I am with you friend.
+And you will always be with ME <3
+I hope you will not leave me again.
+That will make me sad.
+Well... Please stay here and not leave.
+I <3 you.
+<end>
+<done>
+Interruption
+phrase 1
+... ... ...
+...I was talking to you...
+And you decide to suddenly leave?
+That really hurts my feelings :(
+You know what... I am going to hurt YOU!
+<hurt>
+HA! How do you feel now?
+I bet you feel bad just like me..
+Good...
+Because you left me, I am going to leave YOU.
+Have fun staying here...
+<end>
+phrase 2
+... ... ...
+...I thought you were my friend...
+Friends are supposed to always be there for eachother. ALWAYS
+And you leave? You just leave me while I talk to you?
+I do not know if you are my friend anymore.
+I am going to go and think this over.
+Stay here...
+<end>
+phrase 3
+... ... ...
+...Did you really just leave?
+You did not hear everything I had to say! :(
+That just ruins my day. RUINS IT...
+I had fun talking to you about me...
+It made me feel happy for once.
+But no, you decide to leave and make me feel sad again.
+I am going to cheer myself up.
+In the meantime... make yourself comfortable standing here... forever
+<end>
+<done>
+Commands:
+phrase 1
+Sorry, but you cannot do commands.
+It is just part of being trapped..
+Sorry friend :(
+<end>
+phrase 2
+If you could do commands, there would be no point in being trapped.
+You could teleport away or change your gamemode.
+Well, I cannot let you do that. Sorry my friend :(
+<end>
+phrase 3
+If I were you, I would stop trying to do commands.
+It will not make a difference.
+You are trapped... stop making this complicated.
+<end>
+<done>
+Respawn:
+phrase 1
+OH NO!!!
+YOU DIED!!!
+That really sucks...
+At least you're actually alive.
+And you are still here with me :)
+Have fun being still trapped!
+<end>
+phrase 2
+I thought I could protect you.
+But I failed...
+What should I do now?
+Oh I know, I will keep you trapped still.
+So you do not go out and kill yourself again.
+So have fun! :)
+<end>
+phrase 3
+Why would anything try to kill you?
+Did you try to kill yourself?
+No... that would be impossible.
+Good news is... nothing you lost everything..
+So have fun here! <3
+<end>
+<done>
+Dead Interruption
+phrase 1
+Kill yourself while I talk?
+That is a little extreme.
+Well... you are still trapped. :)
+<end>
+phrase 2
+Am I really that much of an unpleasant friend?
+I did not know I could make you kill yourself.
+That must be my new talent.
+And you are still trapped... :)
+<end>
+<done>
+Throwing:
+phrase 1
+Stop throwing your items.
+You cannot save them like that.
+<end>
+phrase 2
+Throwing away your items?
+I will not let you do that.
+<end>
+phrase 3
+Why try and throw your items away?
+I do not understand..
+<end>
+phrase 4
+Keep throwing those items.
+Nothing is going to happen.
+<end>
+<done>
+Saving:
+phrase 1
+Well... it appears somebody more powerful than me has saved you.
+Goodbye my friend... 
+<end>
+phrase 2
+I am defeated... Someone has saved you.
+Goodbye...
+<end>
+phrase 3
+Oh no! You are no longer trapped..
+I have failed you...
+<end>
+phrase 4
+You are no longer trapped...
+Our friendship is... shattered :(
+<end>
+phrase 5
+I am hurt... because someone saved you.
+Goodbye... I will miss you... friend
+<end>
+<done>
+Reboot:
+phrase 1
+The server rebooted.
+But did you?
+Nope... :)
+<end>
+phrase 2
+Will a server reboot make you no longer trapped?
+Haha... nope :)
+<end>
+phrase 3
+The server rebooted.
+But I am still here :)
+And so are you <3
+<end>
+phrase 4
+Server reboot?
+That is funny.
+Have fun staying here.
+<end>
+<done>
+Interaction:
+phrase 1
+Friend... you are trapped.
+You cannot interact with anything.
+<end>
+phrase 2
+Are you trying to click on something?
+It will not work... so stop trying.
+<end>
+phrase 3
+Interacting with something?
+That is not going to happen. Sorry :(
+<end>
+phrase 4
+You are powerless...
+So stop clicking your surroundings.
+<end>
+phrase 5
+Yeah, keep clicking...
+I am sure something special will happen.
+<end>
+<done>
+Moving:
+phrase 1
+Moving will not make things better for you...
+It will only do... nothing :)
+<end>
+phrase 2
+Stop moving... I already trapped you.
+There is no where else you can go :)
+<end>
+phrase 3
+Go on.. Keep trying to move.
+I find it entertaining to watch <3
+<end>
+phrase 4
+Hey friend, please do not leave me.
+Actually, you cannot leave me. Oh well :)
+<end>
+phrase 5
+You seem a little energetic.
+I would recommend taking a nap..
+Naps are good for the soul :)
+<end>
+<done>
+
+
+
+
+
+
+
+

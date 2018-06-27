@@ -1,0 +1,15 @@
+name: Cells
+main: me.Firegred.main.Main
+description: >
+          Cells minecraft plugin
+version: 1.0
+author: Firegred
+load: STARTUP
+depend: [Vault]
+commands:
+     cell:
+       description: use to get to cell
+     setTeleport:
+       description: sets teleport back
+     SetPlate:
+       description: sets teleport plate

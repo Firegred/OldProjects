@@ -1,0 +1,19 @@
+name: TreasureChests
+main: me.Firegred.Treasures.Main
+description: >
+          Treasure Chest Minecraft Plugin
+version: 1.1
+author: Firegred
+
+commands:
+     TreasureChests:
+       description: Main Command
+     TC:
+       description: Main Command (shortcut)
+permissions:
+     TreasureChests.wand:
+       description: Allows you to define regions with wand  
+     TreasureChests.region:
+       description: Allows you to delete and look at regions
+     TreasureChests.item:
+       description: Allows you to add and modify items

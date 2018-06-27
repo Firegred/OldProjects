@@ -1,0 +1,47 @@
+name: NoteBlockPlus
+version: 1.01
+main: me.Firegred.NoteBlock.Main
+author: Firegred
+description: >
+               Revolutionizes how Note Blocks are used, and how music is created.
+commands:
+    noteblockinfo:
+      description: Info about the plugin
+    noteblocksetvolume:
+      description: Sets global sound of custom noteblocks
+    noteblockfastplace:
+      description: Allows players to fastplace noteblock signs
+    noteblockID:
+      description: Find the sound that corresponds to ID
+    noteblockIDlist:
+      description: Gives list of sounds and their IDs
+    composercreate:
+      description: Allows players to create composer chest
+    composercopy:
+      description: Allows players to copy composer chest
+    composerdelete:
+      description: Allows players to delete composer chest
+    composerlist:
+      description: Allows players to view all composer chests playing
+permissions:
+     NoteBlock.open:
+       description: Allows you to open inventory
+     NoteBlock.create:
+       description: Allows you to create signs 
+     NoteBlock.tune:
+       description: Ability to tune noteblocks
+     NoteBlock.fastplace:
+       description: Ability to fast place signs
+     NoteBlock.composer:
+       description: Allow the use of the composer (and delete composer chests)
+     NoteBlock.composer.copy:
+       description: Allows to copy composer chests
+     NoteBlock.composer.playother:
+       description: Allows to play/stop other player's chests
+     NoteBlock.composer.editother:
+       description: Allows to edit other player's chests
+     NoteBlock.composer.deleteother:
+       description: Allows to delete other player's chests
+     NoteBlock.composer.list:
+       description: Allows to list Composer chests playing
+          

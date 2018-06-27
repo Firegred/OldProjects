@@ -1,0 +1,33 @@
+name: CursedSnowball
+main: me.Firegred.Snowball.Main
+description: >
+          CursedSnowball Minecraft Plugin
+version: 1.2
+author: Firegred
+
+commands:
+     CursedBall:
+       description: Throw this at friends :)
+     eggcure:
+       description: Cure your friends
+     Curewand:
+       description: Cure your friends
+     Cursedwand:
+       description: Use this on your friends :)
+     Cursereload:
+       description: Reload the plugin's dialogue and config files
+permissions:
+     CursedSnowball.ball:
+       description: spawn cursedsnowball
+     CursedSnowball.egg:
+       description: spawn cure egg
+     CursedSnowball.wand:
+       description: spawn wand
+     CursedSnowball.ball.use:
+       description: able to use the cursedsnowball 
+     CursedSnowball.egg.use:
+       description: able to use the Cure Egg
+     CursedSnowball.wand.use:
+       description: able to use the wands
+     CursedSnowball.reload:
+       description: able to reload the plugin

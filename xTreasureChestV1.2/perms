@@ -1,0 +1,4 @@
+Permission nodes:
+TreasureChests.wand - allows players to use wand and define regions
+TreasureChests.region - allows players to delete and look at regions
+TreasureChests.item - allows players to add items
