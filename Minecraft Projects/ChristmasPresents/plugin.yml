@@ -1,0 +1,10 @@
+name: ChristmasPresents
+version: 1.0
+main: me.Firegred.Christmas.Main
+description: >
+              Merry Christmas!
+commands:
+     togglechristmaspresents:
+       description: toggles if presents should be given
+     givepresent:
+       description: Gives a present to someone
